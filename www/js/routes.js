@@ -12,6 +12,10 @@ routes = [
     url: './pages/listar-contato.html',
   },
   {
+    path: '/orcamento/',
+    url: './pages/orcamento.html',
+  },
+  {
     path: '/cadastro/',
     url: './pages/cadastro.html',
   },
